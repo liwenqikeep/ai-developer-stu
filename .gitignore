@@ -1,0 +1,5 @@
+.vscode/
+.workbuddy/
+
+*/.env
+py/demo-for-step1/.env
